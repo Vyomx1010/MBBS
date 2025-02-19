@@ -110,5 +110,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - Navneet Vishwakarma
-Project Link: https://github.com/Vyomx1010/MBBS.git
+Your Name - Navneet Vishwakarma <br>
+Project Link: [link](https://mbbs-navneet.netlify.app/)
